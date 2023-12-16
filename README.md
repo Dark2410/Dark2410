@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dark2410
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning in 10th
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning in 12th
+- 📫 any cyber security gig massage me
 
 <!---
 Dark2410/Dark2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
